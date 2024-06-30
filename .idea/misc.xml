@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="$USER_HOME$/opt/anaconda3/bin/black" />
+    <option name="sdkUUID" value="bd15c65a-bbbf-43f2-a071-56b066664b34" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/opt/anaconda3" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+</project>
